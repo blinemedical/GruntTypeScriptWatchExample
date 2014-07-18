@@ -1,0 +1,5 @@
+# WebStorm configuration files
+.idea/
+
+# Node dependencies specified in package.json
+node_modules/
