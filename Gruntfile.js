@@ -10,7 +10,7 @@ module.exports = function(grunt) {
                 },
                 example_files: {
                     src: ['examples/**/*.ts'],
-                    dest: 'compiled.js'
+                    dest: 'examples/compiled.js'
                 },
                 moar_example_files: {
                     src: ['moar_examples/**/*.ts']
